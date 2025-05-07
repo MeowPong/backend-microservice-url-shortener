@@ -7,7 +7,7 @@
   <li>Submit a URL and receive a short URL.</li>
   <li>Redirect to the original URL using the short version.</li>
   <li>DNS lookup ensures only valid domain names are accepted.</li>
-  <li>In-memory storage (resets when the server restarts</li>
+  <li>In-memory storage (resets when the server restarts)</li>
 </ul>
 
 ### Installation
