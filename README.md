@@ -16,6 +16,6 @@
 
 ```bash
 git clone https://github.com/MeowPong/backend-microservice-url-shortener
-cd url-shortener
+cd backend-microservice-url-shortener
 npm install
 npm start
